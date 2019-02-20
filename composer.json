@@ -25,9 +25,7 @@
     "flc/dysms": "^1.0",
     "axios/api-tool": "^1.1"
   },
-  "require-dev": {
-    "composer/composer": "1.0.*@dev"
-  },
+  "require-dev": {},
   "autoload": {
     "psr-4": {
       "aliyun\\sdk\\": "library"
